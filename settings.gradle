@@ -14,7 +14,7 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "CommonLibraryProjectTemplate"
+rootProject.name = "Model-Validator"
 include ':app'
 
-include ':lib'
+include ':model-validator'
